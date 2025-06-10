@@ -1,7 +1,7 @@
 # RealSense RGB-D Image Capture Tool
 
 This Python script captures synchronized RGB and depth frames using an Intel RealSense camera. It shows a live video stream and lets you save individual frames with a mouse click. Useful for creating datasets for 3D vision, machine learning, and robotics.
-
+.Mine is spinal data which could be for CAS systems
 ## Features
 
 - Streams real-time RGB and depth video.
